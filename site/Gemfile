@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "rake"
-gem "middleman", "~> 4.1"
+gem "middleman", "~> 4.3", ">= 4.3.8"
 gem "middleman-deploy", github: "middleman-contrib/middleman-deploy"
 gem "middleman-livereload", "~> 3.4.0"
 gem "middleman-syntax"
