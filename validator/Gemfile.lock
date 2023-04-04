@@ -1,11 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.1)
-      public_suffix (~> 2.0, >= 2.0.2)
-    json-schema (2.8.0)
-      addressable (>= 2.4)
-    public_suffix (2.0.5)
+    addressable (2.8.2)
+      public_suffix (>= 2.0.2, < 6.0)
+    json-schema (3.0.0)
+      addressable (>= 2.8)
+    public_suffix (5.0.1)
 
 PLATFORMS
   ruby
@@ -14,4 +14,4 @@ DEPENDENCIES
   json-schema
 
 BUNDLED WITH
-   1.14.6
+   1.17.3
